@@ -1,0 +1,9 @@
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe.config
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.pdb
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csprojAssemblyReference.cache
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.MainForm.resources
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Properties.Resources.resources
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.GenerateResource.cache
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.exe
+C:\Users\dcray\Documents\repos\DatabindingTutorials\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.pdb
